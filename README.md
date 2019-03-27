@@ -1,3 +1,4 @@
+
 # Fontend developers Do's & don'ts
 >List of  Do's and don'ts for frontend developers with respect to javascript frameworks ;) 
 
@@ -9,32 +10,32 @@ _Inspired by the  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lum
 
 
 ## The Do's 👍
-😎Make stuff! no matter how wacky the idea sounds, JUST BUILD !
-😀Already good in a certain framework? that's fine, now learn a new javascript framework. 
-✔️Connect with the community (github, twitter, e.t.c)
-😍Contribute to the community. Build tools, share codes, get involved!
-🕶️Have a mentor. Not necessarily a Senior Developer with 20+ years of experience. No. Anyone who knows more than you and understand things better is just fine.
-🥰Learn and learn, something is always changing , stay current and never stop learning.
-🔥 Help Others!  As soon as you start feeling quite confident about your skills and knowledge, start helping others.
-🤩Create Portfolio Page
-🤗Do use Git and Version Control Systems (e.g. Git, Subversion, Mercurial)
-🤪Continue to learn what you’re interested in
-🥂Hang out on CodePen. There’s so much inspiration over there.
+- 😎Make stuff! no matter how wacky the idea sounds, JUST BUILD !
+- 😀Already good in a certain framework? that's fine, now learn a new javascript framework. 
+- ✔️Connect with the community (github, twitter, e.t.c)
+- 😍Contribute to the community. Build tools, share codes, get involved!
+- 🕶️Have a mentor. Not necessarily a Senior Developer with 20+ years of experience. No. Anyone who knows more than you and understand things better is just fine.
+- 🥰Learn and learn, something is always changing , stay current and never stop learning.
+- 🔥 Help Others!  As soon as you start feeling quite confident about your skills and knowledge, start helping others.
+- 🤩Create Portfolio Page
+- 🤗Do use Git and Version Control Systems (e.g. Git, Subversion, Mercurial)
+- 🤪Continue to learn what you’re interested in
+- 🥂Hang out on CodePen. There’s so much inspiration over there.
 
 
 ## And here are the Don'ts👎
-💩Don't learn the Javascript framework if you don't know the language!(Javascript).
-📛Don't deceive yourself. you can't become a frontend developer without knowing javascript! forget the whole Dart or Coffeescript talk. First learn javascript. 
-🤦Don't learn the Javascript framework if you have no solid foundation in CSS/HTML.
-🚨Do not! i repeat, Don't start learning a a Javascript framework if you have no idea of css. DON'T!
-😭 Don't start learning  a Javascript framework if you have no idea of CSS Preprocessors
-😟Don't start learning a Javascript framework if you don't know how the browser works!
-🙍Don't learn a Javascript framework if you have no idea of how to build APIs.
-🙁Don’t be Ashamed of Not Knowing Something, do your best and learn!
-🥺Just don't if you have no idea on Testing and Debugging
-🚩Don't start this race is you have no clue of  **JSON**
-🥴Don't learn it for money! 
-😱Don’t worry about trying to learn everything. It's ok to try out a new framework to see what it's about but don't stress bout it.
+- 💩Don't learn the Javascript framework if you don't know the language!(Javascript).
+- 📛Don't deceive yourself. you can't become a frontend developer without knowing javascript! forget the whole Dart or Coffeescript talk. First learn javascript. 
+- 🤦Don't learn the Javascript framework if you have no solid foundation in CSS/HTML.
+- 🚨Do not! i repeat, Don't start learning a a Javascript framework if you have no idea of css. DON'T!
+- 😭 Don't start learning  a Javascript framework if you have no idea of CSS Preprocessors
+- 😟Don't start learning a Javascript framework if you don't know how the browser works!
+- 🙍Don't learn a Javascript framework if you have no idea of how to build APIs.
+- 🙁Don’t be Ashamed of Not Knowing Something, do your best and learn!
+- 🥺Just don't if you have no idea on Testing and Debugging
+- 🚩Don't start this race is you have no clue of  **JSON**
+- 🥴Don't learn it for money! 
+- 😱Don’t worry about trying to learn everything. It's ok to try out a new framework to see what it's about but don't stress bout it.
 
 
 
@@ -50,7 +51,7 @@ _Inspired by the  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lum
 
 ## [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#contributing)Contributing
 
-Think you have an option of do's and don'ts for frontend developers? Send me a pull request! Just follow the guidelines
+ Have a personal option on the do's and don'ts for frontend developers? Send me a pull request! Just follow the guidelines
 
 #### [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#guidelines)Guidelines
 
