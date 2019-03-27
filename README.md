@@ -16,7 +16,7 @@ _Inspired by  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lumen).
 - 😍Contribute to the community. Build tools, share codes, get involved!
 - 💯Attend meetups!
 - 🕶️Have a mentor. Not necessarily a Senior Developer with 20+ years of experience. No. Anyone who knows more than you and understand things better is just fine.
-- 🥰Learn and learn, something is always changing , stay current and never stop learning.
+- 🥰Learn and learn,something is always changing , stay current and never stop learning.
 - 🔥 Help Others!  As soon as you start feeling quite confident about your skills and knowledge, start helping others.
 - 🤩Create Portfolio Page
 - 🤗Do use Git and Version Control Systems (e.g. Git, Subversion, Mercurial)
