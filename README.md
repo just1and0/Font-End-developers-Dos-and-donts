@@ -48,11 +48,11 @@ _Inspired by the  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lum
 
 -   Contribute some ;)
 
-## [](https://github.com/unicodeveloper/awesome-lumen#contributing)Contributing
+## [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#contributing)Contributing
 
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines
+Think you have an option of do's and don'ts for frontend developers? Send me a pull request! Just follow the guidelines
 
-#### [](https://github.com/unicodeveloper/awesome-lumen#guidelines)Guidelines
+#### [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#guidelines)Guidelines
 
 -   Make sure what you are adding is not already on the list
 - Do not use an existing emoji
