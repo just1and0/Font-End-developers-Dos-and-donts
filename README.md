@@ -58,7 +58,7 @@ _Inspired by  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lumen).
 -   Make sure what you are adding is not already on the list
 - Do not use an existing emoji
 -   Make a separate pull request for each addition
--   Use the format:  `emoji -your point `
+-   Use the format:  `- emoji -your point `
 -   Add it to the bottom of the section, not top or middle
 -   Check your spelling and grammar
  -   Make sure there is no trailing whitespace
