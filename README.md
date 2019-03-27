@@ -52,6 +52,8 @@ _Inspired by  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lumen).
 ## [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#contributing)Contributing
 
  Have a personal opinion on the do's and don'ts for frontend developers? Send me a pull request! Just follow the guidelines
+ 
+ And don't forget to star :)
 
 #### [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#guidelines)Guidelines
 
