@@ -1,5 +1,5 @@
 
-# Font end developers Do's & don'ts
+## Font end developers Do's & don'ts
 >List of  Do's and don'ts for frontend developers with respect to javascript frameworks ;) 
 
 _Inspired by  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lumen). Written  by  [Prosper Otemuyiwa](https://github.com/unicodeveloper)_
