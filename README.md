@@ -49,6 +49,7 @@ _Inspired by  [Awesome Lumen ](https://github.com/unicodeveloper/awesome-lumen).
 ## Tips
 
 -   Contribute some ;)
+-   Don't forget to star
 
 ## [](https://github.com/just1and0/Font-End-developers-Dos-and-donts#contributing)Contributing
 
